@@ -1,8 +1,8 @@
-version: 0.0.4
+version: 0.0.9
 files:
-  - url: HeyDat Setup 0.0.4.exe
-    sha512: JMGH1/T0itjWcDcvfVvaHcOL8uJx7vgW2Sf5VIZLsMXHKzVRY807mxjcYYMjLF6TKljz/7YJxb8jJAUwDX+0fg==
-    size: 75031077
-path: HeyDat Setup 0.0.4.exe
-sha512: JMGH1/T0itjWcDcvfVvaHcOL8uJx7vgW2Sf5VIZLsMXHKzVRY807mxjcYYMjLF6TKljz/7YJxb8jJAUwDX+0fg==
-releaseDate: '2018-12-20T06:44:05.426Z'
+  - url: HeyDat Setup 0.0.9.exe
+    sha512: YKCqbRO62zgPgOcbmscVYxhKnfTE/wKegV8bn1AxPUdrWHlBiJQfbSJeuDpt1Hx+hvzB/2PcUNgwIsYuTRpMhg==
+    size: 76996292
+path: HeyDat Setup 0.0.9.exe
+sha512: YKCqbRO62zgPgOcbmscVYxhKnfTE/wKegV8bn1AxPUdrWHlBiJQfbSJeuDpt1Hx+hvzB/2PcUNgwIsYuTRpMhg==
+releaseDate: '2018-12-20T06:58:26.142Z'
